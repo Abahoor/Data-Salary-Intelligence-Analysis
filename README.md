@@ -387,7 +387,7 @@ It includes:
 
 ## 2. Career & Company Insights
 
-![Career & Company Insights](images/CAREER%20%26%20COMPANY%20INSIGHTS.png)
+![Career & Company Insights](images/career-company-insights.png)
 
 This page examines how company size, experience level, and work setting relate to salary and workforce composition.
 
